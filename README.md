@@ -1,3 +1,3 @@
 #Demonstration file
 
-this is ome text
+I'm learning how to code
